@@ -1,3 +1,3 @@
 <div>
-  <img src="https://media.tenor.com/E-ugLdjXA8AAAAAi/koseki-bijou-bijou.gif"/>
+  <img src="https://media.tenor.com/dhOYt_Afj9wAAAAC"/>
 </div>
